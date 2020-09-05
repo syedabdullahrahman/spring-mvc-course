@@ -1,0 +1,65 @@
+Users\Kevin Bowersox\Desktop\Development\InfiniteSkills\Courses\Spring MVC\Lessons\Chapter 5\0507 Textarea Tag\Textarea Tag
+   │
+   ├[src]
+   │   │
+   │   ├[main]
+   │   │   │
+   │   │   ├[java]
+   │   │   │   │
+   │   │   │   └[com]
+   │   │   │       │
+   │   │   │       └[infiniteskills]
+   │   │   │           │
+   │   │   │           └[mvc]
+   │   │   │               │
+   │   │   │               ├[controllers]
+   │   │   │               │   │
+   │   │   │               │   ├HomeController
+   │   │   │               │   ├ProjectController
+   │   │   │               │   └ResourceController
+   │   │   │               └[data]
+   │   │   │                   │
+   │   │   │                   ├[entities]
+   │   │   │                   │   │
+   │   │   │                   │   ├Project
+   │   │   │                   │   └Resource
+   │   │   │                   └[services]
+   │   │   │                       │
+   │   │   │                       └ProjectService
+   │   │   ├[resources]
+   │   │   │   │
+   │   │   │   └log4j
+   │   │   └[webapp]
+   │   │       │
+   │   │       ├[resources]
+   │   │       │   │
+   │   │       │   ├[css]
+   │   │       │   │   │
+   │   │       │   │   ├bootstrap-select.min
+   │   │       │   │   ├global
+   │   │       │   │   └home
+   │   │       │   └[js]
+   │   │       │       │
+   │   │       │       └bootstrap-select.min
+   │   │       └[WEB-INF]
+   │   │           │
+   │   │           ├[spring]
+   │   │           │   │
+   │   │           │   ├applicationContext
+   │   │           │   └dispatcher-servlet
+   │   │           ├[views]
+   │   │           │   │
+   │   │           │   ├[fragments]
+   │   │           │   │   │
+   │   │           │   │   └header
+   │   │           │   ├home
+   │   │           │   ├project
+   │   │           │   ├projects
+   │   │           │   ├project_add
+   │   │           │   └resource_add
+   │   │           └web
+   │   └[test]
+   │       │
+   │       ├[java]
+   │       └[resources]
+   └pom

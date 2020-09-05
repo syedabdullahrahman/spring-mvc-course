@@ -1,0 +1,79 @@
+Users\Kevin Bowersox\Desktop\Development\InfiniteSkills\Courses\Spring MVC\Lessons\Chapter 8\0805 Redirects\Redirects
+   │
+   ├[src]
+   │   │
+   │   ├[main]
+   │   │   │
+   │   │   ├[java]
+   │   │   │   │
+   │   │   │   └[com]
+   │   │   │       │
+   │   │   │       └[infiniteskills]
+   │   │   │           │
+   │   │   │           └[mvc]
+   │   │   │               │
+   │   │   │               ├[controllers]
+   │   │   │               │   │
+   │   │   │               │   ├HomeController
+   │   │   │               │   ├ProjectController
+   │   │   │               │   └ResourceController
+   │   │   │               ├[data]
+   │   │   │               │   │
+   │   │   │               │   ├[entities]
+   │   │   │               │   │   │
+   │   │   │               │   │   ├Project
+   │   │   │               │   │   ├Resource
+   │   │   │               │   │   └Sponsor
+   │   │   │               │   ├[services]
+   │   │   │               │   │   │
+   │   │   │               │   │   └ProjectService
+   │   │   │               │   └[validators]
+   │   │   │               │       │
+   │   │   │               │       └ProjectValidator
+   │   │   │               └[resolvers]
+   │   │   │                   │
+   │   │   │                   └GlobalHandlerExceptionResolver
+   │   │   ├[resources]
+   │   │   │   │
+   │   │   │   └log4j
+   │   │   └[webapp]
+   │   │       │
+   │   │       ├[resources]
+   │   │       │   │
+   │   │       │   ├[css]
+   │   │       │   │   │
+   │   │       │   │   ├bootstrap-select.min
+   │   │       │   │   ├global
+   │   │       │   │   └home
+   │   │       │   └[js]
+   │   │       │       │
+   │   │       │       ├bootstrap-select.min
+   │   │       │       └resource
+   │   │       └[WEB-INF]
+   │   │           │
+   │   │           ├[spring]
+   │   │           │   │
+   │   │           │   ├applicationContext
+   │   │           │   ├dispatcher-servlet
+   │   │           │   └views
+   │   │           ├[views]
+   │   │           │   │
+   │   │           │   ├[fragments]
+   │   │           │   │   │
+   │   │           │   │   └header
+   │   │           │   ├controller_error
+   │   │           │   ├global_error
+   │   │           │   ├home
+   │   │           │   ├project
+   │   │           │   ├projects
+   │   │           │   ├project_add
+   │   │           │   ├resource_add
+   │   │           │   ├resource_review
+   │   │           │   ├welcome
+   │   │           │   └xml_welcome
+   │   │           └web
+   │   └[test]
+   │       │
+   │       ├[java]
+   │       └[resources]
+   └pom

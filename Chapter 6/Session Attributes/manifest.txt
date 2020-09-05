@@ -1,0 +1,67 @@
+Users\Kevin Bowersox\Desktop\Development\InfiniteSkills\Courses\Spring MVC\Lessons\Chapter 6\0605 SessionAttributes\Session Attributes
+   │
+   ├[src]
+   │   │
+   │   ├[main]
+   │   │   │
+   │   │   ├[java]
+   │   │   │   │
+   │   │   │   └[com]
+   │   │   │       │
+   │   │   │       └[infiniteskills]
+   │   │   │           │
+   │   │   │           └[mvc]
+   │   │   │               │
+   │   │   │               ├[controllers]
+   │   │   │               │   │
+   │   │   │               │   ├HomeController
+   │   │   │               │   ├ProjectController
+   │   │   │               │   └ResourceController
+   │   │   │               └[data]
+   │   │   │                   │
+   │   │   │                   ├[entities]
+   │   │   │                   │   │
+   │   │   │                   │   ├Project
+   │   │   │                   │   ├Resource
+   │   │   │                   │   └Sponsor
+   │   │   │                   └[services]
+   │   │   │                       │
+   │   │   │                       └ProjectService
+   │   │   ├[resources]
+   │   │   │   │
+   │   │   │   └log4j
+   │   │   └[webapp]
+   │   │       │
+   │   │       ├[resources]
+   │   │       │   │
+   │   │       │   ├[css]
+   │   │       │   │   │
+   │   │       │   │   ├bootstrap-select.min
+   │   │       │   │   ├global
+   │   │       │   │   └home
+   │   │       │   └[js]
+   │   │       │       │
+   │   │       │       └bootstrap-select.min
+   │   │       └[WEB-INF]
+   │   │           │
+   │   │           ├[spring]
+   │   │           │   │
+   │   │           │   ├applicationContext
+   │   │           │   └dispatcher-servlet
+   │   │           ├[views]
+   │   │           │   │
+   │   │           │   ├[fragments]
+   │   │           │   │   │
+   │   │           │   │   └header
+   │   │           │   ├home
+   │   │           │   ├project
+   │   │           │   ├projects
+   │   │           │   ├project_add
+   │   │           │   ├resource_add
+   │   │           │   └resource_review
+   │   │           └web
+   │   └[test]
+   │       │
+   │       ├[java]
+   │       └[resources]
+   └pom

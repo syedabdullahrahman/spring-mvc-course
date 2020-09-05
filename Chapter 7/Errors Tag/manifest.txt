@@ -1,0 +1,71 @@
+Users\Kevin Bowersox\Desktop\Development\InfiniteSkills\Courses\Spring MVC\Lessons\Chapter 7\0705 Errors Tag\Errors Tag
+   │
+   ├[src]
+   │   │
+   │   ├[main]
+   │   │   │
+   │   │   ├[java]
+   │   │   │   │
+   │   │   │   └[com]
+   │   │   │       │
+   │   │   │       └[infiniteskills]
+   │   │   │           │
+   │   │   │           └[mvc]
+   │   │   │               │
+   │   │   │               ├[controllers]
+   │   │   │               │   │
+   │   │   │               │   ├HomeController
+   │   │   │               │   ├ProjectController
+   │   │   │               │   └ResourceController
+   │   │   │               └[data]
+   │   │   │                   │
+   │   │   │                   ├[entities]
+   │   │   │                   │   │
+   │   │   │                   │   ├Project
+   │   │   │                   │   ├Resource
+   │   │   │                   │   └Sponsor
+   │   │   │                   ├[services]
+   │   │   │                   │   │
+   │   │   │                   │   └ProjectService
+   │   │   │                   └[validators]
+   │   │   │                       │
+   │   │   │                       └ProjectValidator
+   │   │   ├[resources]
+   │   │   │   │
+   │   │   │   └log4j
+   │   │   └[webapp]
+   │   │       │
+   │   │       ├[resources]
+   │   │       │   │
+   │   │       │   ├[css]
+   │   │       │   │   │
+   │   │       │   │   ├bootstrap-select.min
+   │   │       │   │   ├global
+   │   │       │   │   └home
+   │   │       │   └[js]
+   │   │       │       │
+   │   │       │       ├bootstrap-select.min
+   │   │       │       └resource
+   │   │       └[WEB-INF]
+   │   │           │
+   │   │           ├[spring]
+   │   │           │   │
+   │   │           │   ├applicationContext
+   │   │           │   └dispatcher-servlet
+   │   │           ├[views]
+   │   │           │   │
+   │   │           │   ├[fragments]
+   │   │           │   │   │
+   │   │           │   │   └header
+   │   │           │   ├home
+   │   │           │   ├project
+   │   │           │   ├projects
+   │   │           │   ├project_add
+   │   │           │   ├resource_add
+   │   │           │   └resource_review
+   │   │           └web
+   │   └[test]
+   │       │
+   │       ├[java]
+   │       └[resources]
+   └pom
